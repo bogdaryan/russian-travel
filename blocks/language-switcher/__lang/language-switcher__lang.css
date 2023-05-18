@@ -1,0 +1,9 @@
+.language-switcher__lang {
+  background: none;
+  outline: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 0;
+  font-size: 24px;
+}

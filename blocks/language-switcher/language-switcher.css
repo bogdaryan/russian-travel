@@ -1,0 +1,8 @@
+.language-switcher {
+  height: fit-content;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap: 18px;
+  margin: 0;
+}

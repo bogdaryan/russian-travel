@@ -1,0 +1,8 @@
+.hero {
+  max-width: var(--small-container);
+  margin: 0 auto;
+  padding-bottom: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
