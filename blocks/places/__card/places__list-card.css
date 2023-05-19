@@ -1,0 +1,7 @@
+.places__list-card {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(460px, 1fr));
+  justify-items: center;
+  row-gap: 48px;
+  column-gap: 40px;
+}

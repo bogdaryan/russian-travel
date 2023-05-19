@@ -1,0 +1,14 @@
+.places__list-title {
+  display: inline-block;
+  max-width: 460px;
+  font-weight: 900;
+  font-size: 72px;
+  margin: 0;
+  justify-self: start;
+}
+
+@media screen and (max-width: 1072px) {
+  .places__list-title {
+    max-width: unset;
+  }
+}

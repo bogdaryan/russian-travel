@@ -1,0 +1,9 @@
+.places__list-paragraph {
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.places__list-paragraph:not(:last-child) {
+  margin-bottom: 26px;
+}

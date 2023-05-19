@@ -1,0 +1,21 @@
+.places__list-link {
+  max-width: fit-content;
+  align-self: self-end;
+  color: inherit;
+  font-size: 18px;
+  position: relative;
+  text-decoration: none;
+  border-bottom: 1px solid white;
+  justify-self: start;
+}
+
+.places__list-link::before {
+  content: "URL";
+  position: absolute;
+  top: -26px;
+  width: fit-content;
+  color: #aaaaaa;
+  letter-spacing: 2px;
+  font-size: 12px;
+  cursor: default;
+}
