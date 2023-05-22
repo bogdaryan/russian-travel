@@ -1,4 +1,5 @@
 .places__list-img {
+  width: 100%;
   max-width: 100%;
   justify-self: stretch;
 }
