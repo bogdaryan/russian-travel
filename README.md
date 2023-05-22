@@ -1,4 +1,4 @@
-<h1 align="center">Путешествия по России</h1>
+<h1 align="center"> <a href='https://bogdaryan.github.io/russian-travel/'> Путешествия по России </a> </h1>
 <h2 align="center">Проектная работа #2 (Спринт №1)</h2>
 
 <h3>Технологии</h3>
@@ -8,3 +8,5 @@
 	<li>Адаптивная вёрстка</li>
 	<li>БЭМ</li>
 </ul>
+
+
