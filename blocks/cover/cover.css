@@ -7,3 +7,15 @@
   background-size: cover;
   margin: 92px 0;
 }
+
+@media screen and (max-width: 768px) {
+  .cover {
+    height: 50vh;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover {
+    margin: 65px 0;
+  }
+}

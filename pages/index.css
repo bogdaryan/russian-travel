@@ -4,6 +4,8 @@
 @import url("../vendors/fonts.css");
 @import url("../blocks/page/page.css");
 
+@import url("../blocks/logo/__img/logo__img.css");
+
 @import url("../blocks/header/header.css");
 @import url("../blocks/language-switcher/language-switcher.css");
 @import url("../blocks/language-switcher/__lang/language-switcher__lang.css");
@@ -41,6 +43,5 @@
 
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__list/footer__list.css");
-@import url("../blocks/footer/__item/footer__list-item.css");
 @import url("../blocks/footer/__link/footer__list-link.css");
 @import url("../blocks/footer/__author/footer__author.css");

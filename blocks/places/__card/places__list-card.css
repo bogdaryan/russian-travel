@@ -5,3 +5,15 @@
   row-gap: 48px;
   column-gap: 40px;
 }
+
+@media screen and (max-width: 768px) {
+  .places__list-card {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .places__list-card {
+    row-gap: 32px;
+  }
+}
