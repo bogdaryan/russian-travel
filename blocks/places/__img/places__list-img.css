@@ -1,9 +1,0 @@
-.places__list-img {
-  max-width: 100%;
-}
-
-@media screen and (max-width: 690px) {
-  .places__list-img {
-    max-width: calc(100% + 32px);
-  }
-}

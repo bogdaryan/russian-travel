@@ -8,8 +8,8 @@
 
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__language-switcher/header__language-switcher.css");
-@import url("../blocks/header/__language-switcher/__lang-link/header__lang-link.css");
-@import url("../blocks/header/__language-switcher/__lang-link/_active/header__lang-link_active.css");
+@import url("../blocks/header/__lang-link/header__lang-link.css");
+@import url("../blocks/header/__lang-link/_active/header__lang-link_active.css");
 
 @import url("../blocks/hero/hero.css");
 @import url("../blocks/hero/__title/hero__title.css");
@@ -22,8 +22,8 @@
 @import url("../blocks/intro/__title/intro__title.css");
 @import url("../blocks/intro/__text/intro__text.css");
 @import url("../blocks/intro/__list/intro__list.css");
-@import url("../blocks/intro/__list/__title/intro__list-title.css");
-@import url("../blocks/intro/__list/__digit/intro__list-digit.css");
+@import url("../blocks/intro/__list-title/intro__list-title.css");
+@import url("../blocks/intro/__list-digit/intro__list-digit.css");
 
 @import url("../blocks/photo-grid/photo-grid.css");
 @import url("../blocks/photo-grid/__list/photo-grid__list.css");
@@ -31,12 +31,12 @@
 
 @import url("../blocks/places/places.css");
 @import url("../blocks/places/__list/places__list.css");
-@import url("../blocks/places/__card/places__list-card.css");
-@import url("../blocks/places/__title/places__list-title.css");
+@import url("../blocks/places/__list-card/places__list-card.css");
+@import url("../blocks/places/__list-title/places__list-title.css");
 @import url("../blocks/places/__list-website/places__list-website.css");
-@import url("../blocks/places/__link/places__list-link.css");
-@import url("../blocks/places/__img/places__list-img.css");
-@import url("../blocks/places/__paragraph/places__list-paragraph.css");
+@import url("../blocks/places/__list-link/places__list-link.css");
+@import url("../blocks/places/__list-img/places__list-img.css");
+@import url("../blocks/places/__list-paragraph/places__list-paragraph.css");
 @import url("../blocks/places/__url-heading/places__url-heading.css");
 
 @import url("../blocks/cover/cover.css");

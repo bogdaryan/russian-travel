@@ -4,17 +4,6 @@
 
 @media screen and (max-width: 1024px) {
   .hero__img {
-    width: calc(100% + 96px);
-  }
-}
-
-@media screen and (max-width: 900px) {
-  .hero__img {
-    width: calc(100% + 48px);
-  }
-}
-@media screen and (max-width: 690px) {
-  .hero__img {
-    width: calc(100% + 32px);
+    width: 100%;
   }
 }

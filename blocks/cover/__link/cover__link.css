@@ -18,11 +18,11 @@
 
 @media screen and (max-width: 1024px) {
   .cover__link {
-    min-height: 600px;
+    min-height: 690px;
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
   .cover__link {
     min-height: 480px;
   }
@@ -30,6 +30,6 @@
 
 @media screen and (max-width: 460px) {
   .cover__link {
-    min-height: 255px;
+    min-height: 200px;
   }
 }
