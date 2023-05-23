@@ -1,0 +1,7 @@
+.places__list-website {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-self: end;
+  justify-self: start;
+}

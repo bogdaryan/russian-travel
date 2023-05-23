@@ -1,6 +1,6 @@
 .places__list-paragraph {
   font-size: 18px;
-  line-height: 1.6;
+  line-height: 1.63;
   margin: 0;
 }
 
@@ -8,7 +8,7 @@
   margin-bottom: 26px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 900px) {
   .places__list-paragraph {
     font-size: 16px;
   }

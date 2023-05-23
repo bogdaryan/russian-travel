@@ -7,17 +7,16 @@
   background: #292c2f;
   color: white;
   padding: 0 48px;
-  overflow-x: hidden;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .page {
-    padding: 0 20px;
+    padding: 0 24px;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 690px) {
   .page {
-    padding: 0 15px;
+    padding: 0 16px;
   }
 }

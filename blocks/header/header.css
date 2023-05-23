@@ -6,7 +6,7 @@
   padding-bottom: 56px;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 1024px) {
   .header {
     padding-bottom: 48px;
   }

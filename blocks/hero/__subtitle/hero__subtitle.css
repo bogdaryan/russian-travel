@@ -8,15 +8,22 @@
   line-height: 1.2;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .hero__subtitle {
+    margin-bottom: 56px;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .hero__subtitle {
+    max-width: 340px;
     font-size: 20px;
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 460px) {
   .hero__subtitle {
+    line-height: 1.25;
     font-size: 16px;
-    margin-bottom: 40px;
   }
 }

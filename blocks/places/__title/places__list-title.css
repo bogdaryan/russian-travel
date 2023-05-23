@@ -1,12 +1,18 @@
 .places__list-title {
-  display: inline-block;
   font-weight: 900;
   font-size: 72px;
   margin: 0;
   justify-self: start;
+  line-height: 1.06;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 900px) {
+  .places__list-title {
+    font-size: 42px;
+  }
+}
+
+@media screen and (max-width: 460px) {
   .places__list-title {
     font-size: 32px;
   }

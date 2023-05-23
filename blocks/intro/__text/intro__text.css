@@ -2,9 +2,6 @@
   max-width: 690px;
   font-size: 16px;
   margin: 0;
-  padding: 40px 0 33px 0;
+  padding: 35px 0 32px 0;
   line-height: 1.63;
-}
-
-@media screen and (max-width: 425px) {
 }

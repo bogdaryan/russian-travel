@@ -6,17 +6,10 @@
   gap: 18px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 500px) {
   .footer__list {
     max-width: fit-content;
     flex-direction: column;
-    gap: 10px;
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .footer__list {
-    font-size: 24px;
     gap: 32px;
   }
 }

@@ -1,8 +1,14 @@
 .logo__img {
-  width: 100%;
+  width: 176px;
+  transition: opacity 0.2s linear;
 }
 
-@media screen and (max-width: 425px) {
+.logo__img:hover {
+  transition: opacity 0.2s linear;
+  opacity: 0.6;
+}
+
+@media screen and (max-width: 690px) {
   .logo__img {
     width: 142px;
   }

@@ -1,0 +1,16 @@
+.header__lang-link {
+  background: none;
+  outline: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 0;
+  font-size: 24px;
+  text-decoration: none;
+  line-height: 1.17;
+  transition: opacity 0.2s linear;
+}
+
+.header__lang-link:hover {
+  opacity: 0.3;
+}

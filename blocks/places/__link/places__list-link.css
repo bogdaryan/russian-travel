@@ -7,15 +7,10 @@
   text-decoration: none;
   border-bottom: 1px solid white;
   justify-self: start;
+  line-height: 1.22;
+  transition: opacity 0.2s linear;
 }
 
-.places__list-link::before {
-  content: "URL";
-  position: absolute;
-  top: -26px;
-  width: fit-content;
-  color: #aaaaaa;
-  letter-spacing: 2px;
-  font-size: 12px;
-  cursor: default;
+.places__list-link:hover {
+  opacity: 0.6;
 }
