@@ -7,12 +7,6 @@
   margin: 92px 0;
 }
 
-@media screen and (max-width: 1024px) {
-  .cover {
-    background-size: contain;
-  }
-}
-
 @media screen and (max-width: 690px) {
   .cover {
     margin: 65px 0;
