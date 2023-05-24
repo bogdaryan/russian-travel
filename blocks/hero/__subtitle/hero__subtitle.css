@@ -14,7 +14,7 @@
   }
 }
 
-@media screen and (max-width: 690px) {
+@media screen and (max-width: 768px) {
   .hero__subtitle {
     max-width: 340px;
     font-size: 20px;
