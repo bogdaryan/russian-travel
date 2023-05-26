@@ -23,7 +23,7 @@
   }
 }
 
-@media screen and (max-width: 460px) {
+@media screen and (max-width: 500px) {
   .hero__subtitle {
     line-height: 1.25;
     font-size: 16px;

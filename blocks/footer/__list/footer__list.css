@@ -6,7 +6,7 @@
   gap: 18px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 540px) {
   .footer__list {
     max-width: fit-content;
     flex-direction: column;

@@ -1,7 +1,12 @@
 .intro {
   max-width: var(--small-container);
   margin: 0 auto;
-  padding-left: 48px;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    padding-left: 48px;
+  }
 }
 
 @media screen and (max-width: 768px) {
