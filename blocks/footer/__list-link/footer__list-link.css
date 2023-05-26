@@ -10,9 +10,15 @@
   opacity: 0.8;
 }
 
+@media screen and (max-width: 768px) {
+  .footer__list-link {
+    line-height: 1.12;
+  }
+}
+
 @media screen and (max-width: 500px) {
   .footer__list-link {
     font-size: 24px;
-    line-height: 1.12;
+    line-height: 1;
   }
 }

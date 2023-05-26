@@ -4,11 +4,22 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  margin: 92px 0;
+  margin-top: 92px;
+  margin-bottom: 92px;
+  margin-left: 48px;
+  margin-right: 48px;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @media screen and (max-width: 690px) {
   .cover {
-    margin: 65px 0;
+    margin-top: 65px;
+    margin-bottom: 65px;
   }
 }

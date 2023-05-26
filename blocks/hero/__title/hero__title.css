@@ -10,6 +10,8 @@
 @media screen and (max-width: 768px) {
   .hero__title {
     font-size: 60px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
@@ -17,5 +19,7 @@
   .hero__title {
     line-height: 1.1;
     font-size: 40px;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }

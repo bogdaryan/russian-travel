@@ -27,5 +27,7 @@
   .hero__subtitle {
     line-height: 1.25;
     font-size: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }

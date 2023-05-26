@@ -6,17 +6,4 @@
   font-weight: normal;
   background: #2a2c2f;
   color: white;
-  padding: 0 48px;
-}
-
-@media screen and (max-width: 900px) {
-  .page {
-    padding: 0 24px;
-  }
-}
-
-@media screen and (max-width: 690px) {
-  .page {
-    padding: 0 16px;
-  }
 }

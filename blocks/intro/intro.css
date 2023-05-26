@@ -1,4 +1,17 @@
 .intro {
   max-width: var(--small-container);
   margin: 0 auto;
+  padding-left: 48px;
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .intro {
+    padding: 0 16px;
+  }
 }

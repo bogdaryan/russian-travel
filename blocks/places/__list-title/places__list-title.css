@@ -12,6 +12,12 @@
   }
 }
 
+@media screen and (max-width: 690px) {
+  .places__list-title {
+    padding: 0 16px;
+  }
+}
+
 @media screen and (max-width: 460px) {
   .places__list-title {
     font-size: 32px;
