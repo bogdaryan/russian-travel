@@ -16,3 +16,9 @@
     padding-bottom: 88px;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .hero {
+    padding-bottom: 64px;
+  }
+}
